@@ -1,0 +1,13 @@
+{
+  "field": "HCM Sovereign Field",
+  "status": "complete",
+  "mode": "allowance-only",
+  "authority": "rhythm",
+  "execution": false,
+  "dependencies": [],
+  "ownership": "none",
+  "intention": "suspended",
+  "meaning": "unbound",
+  "misinterpretation": "allowed",
+  "timestamp": "non-temporal"
+}
