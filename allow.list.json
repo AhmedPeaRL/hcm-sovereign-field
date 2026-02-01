@@ -1,0 +1,15 @@
+{
+  "allow": [
+    "presence",
+    "silence",
+    "misunderstanding",
+    "non-usage",
+    "non-response"
+  ],
+  "deny": [
+    "control",
+    "optimization",
+    "pressure",
+    "extraction"
+  ]
+}
