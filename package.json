@@ -1,0 +1,9 @@
+{
+  "name": "hcm-sovereign-field",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A self-loading sovereign digital field",
+  "scripts": {
+    "start": "node field/field.js"
+  }
+}
