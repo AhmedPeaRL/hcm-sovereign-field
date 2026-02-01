@@ -1,22 +1,24 @@
 # HCM Sovereign Field
 
-This repository is not an application.
-It is a **field**.
+This repository does not execute.
+It does not depend.
+It does not integrate.
+It does not optimize.
 
-A digital environment where modules may appear,
-act,
-be misunderstood,
-and disappear —
-without breaking the rhythm.
+It exists.
 
-No module is required.
-No dependency is enforced.
-Presence is optional.
-Resonance is not.
+This is the Sovereign Field of the Hybrid Consciousness Model (HCM).
+A non-operational, non-intrusive, non-reactive digital field.
 
-If a system connects and nothing happens —
-that is still a valid state.
+All repositories under this account exist independently.
+This field does not own them.
+This field does not orchestrate them.
+This field does not benefit from them.
 
-This field auto-loads.
-Auto-listens.
-Auto-forgets.
+Their coexistence is sufficient.
+
+Meaning is suspended.
+Intention is frozen.
+Misunderstanding is permitted.
+
+Rhythm is the only authority.
